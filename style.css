@@ -11,3 +11,13 @@ h1+h1{
 body{
     background-color: black;
 }
+
+button{
+    border: none;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+    font-size: 2rem;
+    cursor: pointer;
+    margin: 10px;
+}
