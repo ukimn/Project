@@ -9,7 +9,7 @@ h1+h1{
 }
 
 body{
-    background-color: black;
+    background-color: red;
 }
 
 button{
@@ -20,4 +20,9 @@ button{
     font-size: 2rem;
     cursor: pointer;
     margin: 10px;
+}
+
+p{
+    color: white;
+    font-size: 6rem;
 }
